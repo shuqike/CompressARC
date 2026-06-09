@@ -1,4 +1,6 @@
 **/__pycache__/*
+**/*.npz
+**/*.png
 inspect_outputs/*
 inspect_outputs_test/*
 inspect_outputs_test2/*
