@@ -1,0 +1,5 @@
+**/__pycache__/*
+inspect_outputs/*
+inspect_outputs_test/*
+inspect_outputs_test2/*
+inspect_outputs_shape_test/*
